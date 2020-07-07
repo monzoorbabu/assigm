@@ -1,0 +1,426 @@
+body {
+    background: #003334;
+}
+
+.box1 {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    float: left;
+    background: #267DAF;
+    box-shadow: 4px 4px 6px 1px black;
+}
+
+.a p {
+    padding-top: 0px;
+    padding-left: 28px;
+    font-family: impact;
+    font-size: 20px;
+    font-style: oblique;
+    color: white;
+    text-shadow: 5px 1px 6px black;
+
+
+}
+
+.h {
+    width: 100px;
+    height: 50px;
+    float: left;
+
+    margin-top: 26px;
+    margin-left: 10px;
+    font-size: 20px;
+    font-style: oblique;
+    font-family: impact;
+    color: white;
+    text-shadow: 5px 5px 3px black;
+}
+
+.box2 {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    float: left;
+    clear: both;
+    background: #00CB76;
+    box-shadow: 4px 4px 6px 1px black;
+}
+
+.b p {
+    padding-top: 5px;
+    padding-left: 28px;
+    font-family: impact;
+    font-size: 20px;
+    font-style: oblique;
+    color: white;
+    text-shadow: 5px 1px 6px black;
+
+
+}
+
+.c {
+    width: 200px;
+    height: 50px;
+    float: left;
+    margin-top: 26px;
+    margin-left: 10px;
+    font-size: 20px;
+    font-style: oblique;
+    font-family: impact;
+    color: white;
+    text-shadow: 5px 5px 3px black;
+
+}
+
+
+
+
+.one {
+    width: 40px;
+    height: 50px;
+    background: #2280AC;
+    padding-top: 20px;
+    padding-left: 28px;
+    font-family: impact;
+    font-size: 20px;
+    font-style: oblique;
+    color: white;
+    text-shadow: 5px 1px 6px black;
+    margin-left: 60px;
+    float: left;
+    clear: both;
+    box-shadow: 4px 4px 6px 1px black;
+}
+
+.two {
+    width: 200px;
+    height: 50px;
+    float: left;
+
+    margin-top: 10px;
+    font-size: 20px;
+    font-family: impact;
+    font-style: oblique;
+    color: white;
+    padding-top: 10px;
+    text-shadow: 5px 5px 3px black;
+    margin-left: 10px;
+}
+
+.four {
+    width: 40px;
+    height: 50px;
+    background: #02C67A;
+    padding-top: 20px;
+    padding-left: 28px;
+    font-family: impact;
+    font-size: 20px;
+    font-style: oblique;
+    color: white;
+    text-shadow: 5px 1px 6px black;
+    margin-left: 60px;
+    float: left;
+    clear: both;
+    box-shadow: 4px 4px 6px 1px black;
+    margin-top: 10px;
+}
+
+.fifty {
+    width: 200px;
+    height: 50px;
+    float: left;
+
+
+    margin-top: 10px;
+    font-size: 20px;
+    font-family: impact;
+    font-style: oblique;
+    color: white;
+    padding-top: 20px;
+    text-shadow: 5px 5px 3px black;
+    margin-left: 10px;
+
+
+}
+.nine{
+       width: 40px;
+    height: 50px;
+    background: #693483;
+    padding-top: 20px;
+    padding-left: 28px;
+    font-family: impact;
+    font-size: 20px;
+    font-style: oblique;
+    color: white;
+    text-shadow: 5px 1px 6px black;
+    margin-left: 60px;
+    float: left;
+    clear: both;
+    box-shadow: 4px 4px 6px 1px black;
+    margin-top: 10px;
+      
+}
+.eleven{
+        width: 200px;
+    height: 50px;
+    float: left;
+
+
+    margin-top: 10px;
+    font-size: 20px;
+    font-family: impact;
+    font-style: oblique;
+    color: white;
+    padding-top: 20px;
+    text-shadow: 5px 5px 3px black;
+    margin-left: 10px;
+
+        
+}
+.ac{
+      width:50px;
+    height: 60px;
+    border-radius:50%;
+    background: #693483;
+    padding-top: 20px;
+    padding-left: 28px;
+    font-family: impact;
+    font-size: 20px;
+    font-style: oblique;
+    color: white;
+    text-shadow: 5px 1px 6px black;
+    
+    float: left;
+    clear: both;
+    box-shadow: 4px 4px 6px 1px black;
+    margin-top: 10px;
+      
+    
+}
+.ca{
+    width: 200px;
+    height: 50px;
+    float: left;
+
+    padding-left:15px;
+    margin-top: 10px;
+    font-size: 20px;
+    font-family: impact;
+    font-style: oblique;
+    color: white;
+    padding-top: 30px;
+    text-shadow: 5px 5px 3px black;
+    
+}
+.sixty{
+         width:50px;
+    height: 60px;
+    border-radius:50%;
+    background: #05B365;
+    padding-top: 20px;
+    padding-left: 28px;
+    font-family: impact;
+    font-size: 20px;
+    font-style: oblique;
+    color: white;
+    text-shadow: 5px 1px 6px black;
+    
+    float: left;
+    clear: both;
+    box-shadow: 4px 4px 6px 1px black;
+    margin-top: 10px;
+      
+}
+.sixty1{
+        width: 200px;
+    height: 50px;
+    float: left;
+
+    padding-left:15px;
+    margin-top: 10px;
+    font-size: 20px;
+    font-family: impact;
+    font-style: oblique;
+    color: white;
+    padding-top: 30px;
+    text-shadow: 5px 5px 3px black;
+}
+.seventy{
+             width:50px;
+    height: 60px;
+    border-radius:50%;
+    background: #693483;
+    padding-top: 20px;
+    padding-left: 28px;
+    font-family: impact;
+    font-size: 20px;
+    font-style: oblique;
+    color: white;
+    text-shadow: 5px 1px 6px black;
+    
+    float: left;
+    clear: both;
+    box-shadow: 4px 4px 6px 1px black;
+    margin-top: 10px;
+      
+         
+}
+.seventy1{
+             width: 200px;
+    height: 50px;
+    float: left;
+
+    padding-left:15px;
+    margin-top: 10px;
+    font-size: 20px;
+    font-family: impact;
+    font-style: oblique;
+    color: white;
+    padding-top: 30px;
+    text-shadow: 5px 5px 3px black;
+}
+.eighty{
+    
+            width:50px;
+    height: 60px;
+    border-radius:50%;
+    background: #2280AC;
+    padding-top: 20px;
+    padding-left: 28px;
+    font-family: impact;
+    font-size: 20px;
+    font-style: oblique;
+    color: white;
+    text-shadow: 5px 1px 6px black;
+    
+    float: left;
+    clear: both;
+    box-shadow: 4px 4px 6px 1px black;
+    margin-top: 10px;
+       
+}
+.eighty1{
+              width: 200px;
+    height: 50px;
+    float: left;
+
+    padding-left:15px;
+    margin-top: 10px;
+    font-size: 20px;
+    font-family: impact;
+    font-style: oblique;
+    color: white;
+    padding-top: 30px;
+    text-shadow: 5px 5px 3px black;
+        
+}
+.ninty{
+             width:50px;
+    height: 60px;
+    border-radius:50%;
+    background: #2280AC;
+    padding-top: 20px;
+    padding-left: 28px;
+    font-family: impact;
+    font-size: 20px;
+    font-style: oblique;
+    color: white;
+    text-shadow: 5px 1px 6px black;
+    
+    float: left;
+    clear: both;
+    box-shadow: 4px 4px 6px 1px black;
+    margin-top: 10px;
+    margin-left:50px;
+       
+      
+}
+.ninty1{
+     width: 200px;
+    height: 50px;
+    float: left;
+
+    padding-left:15px;
+    margin-top: 10px;
+    font-size: 20px;
+    font-family: impact;
+    font-style: oblique;
+    color: white;
+    padding-top: 30px;
+    text-shadow: 5px 5px 3px black;
+        
+      
+}
+.forty{
+       width:50px;
+    height: 60px;
+    border-radius:50%;
+    background:#05B365;
+    padding-top: 20px;
+    padding-left: 28px;
+    font-family: impact;
+    font-size: 20px;
+    font-style: oblique;
+    color: white;
+    text-shadow: 5px 1px 6px black;
+    
+    float: left;
+    clear: both;
+    box-shadow: 4px 4px 6px 1px black;
+    margin-top: 10px;
+    margin-left:50px;
+       
+       
+}
+.forty1{
+         width: 200px;
+    height: 50px;
+    float: left;
+
+    padding-left:15px;
+    margin-top: 10px;
+    font-size: 20px;
+    font-family: impact;
+    font-style: oblique;
+    color: white;
+    padding-top: 30px;
+    text-shadow: 5px 5px 3px black;
+        
+      
+      
+}
+.thirty{
+       width:50px;
+    height: 60px;
+    border-radius:50%;
+    background:#693483;
+    padding-top: 20px;
+    padding-left: 28px;
+    font-family: impact;
+    font-size: 20px;
+    font-style: oblique;
+    color: white;
+    text-shadow: 5px 1px 6px black;
+    
+    float: left;
+    clear: both;
+    box-shadow: 4px 4px 6px 1px black;
+    margin-top: 10px;
+    margin-left:50px;
+       
+}
+.thirty1{
+         width: 200px;
+    height: 50px;
+    float: left;
+
+    padding-left:15px;
+    margin-top: 10px;
+    font-size: 20px;
+    font-family: impact;
+    font-style: oblique;
+    color: white;
+    padding-top: 30px;
+    text-shadow: 5px 5px 3px black;
+}
